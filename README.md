@@ -1,3 +1,6 @@
+>[!WARNING]
+>本项目遵循 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) 许可证
+
 ![](GPU-Perf-Rank--Compute-Ext.png)
 
 ---
