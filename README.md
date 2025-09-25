@@ -1,3 +1,9 @@
+>[!WARNING]
+>本项目源代码基于 Mozilla Public License 2.0 (MPL-2.0) 许可证开源。  
+>但是，**所有商业用途**必须事先获得作者的明确书面许可。
+>
+>有关详细信息，请参阅随附的 [LICENSE](LICENSE) 文件。
+
 ![](GPU-Perf-Rank--Compute-Ext.png)
 
 ---
